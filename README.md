@@ -10,7 +10,7 @@ screen -S Gaianet
 
 Then Paste this command :
 
-wget script.sh && chmod +x script.sh && ./script.sh
+wget https://raw.githubusercontent.com/samusagbt/gaianet-node/main/script.sh && chmod +x script.sh && ./script.sh
 
 
 To detach from screen session, Press Ctrl + A + D
